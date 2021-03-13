@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "check akk", "check akk\check akk.csproj", "{D4476197-EDAC-4E4D-BD2F-14134CF3A4D3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D4476197-EDAC-4E4D-BD2F-14134CF3A4D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4476197-EDAC-4E4D-BD2F-14134CF3A4D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4476197-EDAC-4E4D-BD2F-14134CF3A4D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4476197-EDAC-4E4D-BD2F-14134CF3A4D3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C373353C-C06D-4B96-A9A2-FAB47F5E4F8C}
+	EndGlobalSection
+EndGlobal
